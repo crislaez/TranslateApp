@@ -2,20 +2,8 @@
 
 Traductor-App es una aplicación hecha en Ionic (Angular, TypeScript, Sass/Css, Html, Rxjs, Ngrx)
 
-<img src="https://github.com/crislaez/TranslateApp/blob/master/src/assets/images/TranslateApp.jpg" />
+<img src="https://github.com/crislaez/TranslateApp/blob/master/src/assets/images/TranslateApp_1.jpg" />
 <hr>
-<!-- <img src="https://github.com/crislaez/Gameoffer/blob/master/src/assets/images/Gameoffer_2.jpg" />
-<hr>
-<img src="https://github.com/crislaez/Gameoffer/blob/master/src/assets/images/Gameoffer_3.jpg" />
-<hr>
-<img src="https://github.com/crislaez/Gameoffer/blob/master/src/assets/images/Gameoffer_4.jpg" />
-<hr>
-<img src="https://github.com/crislaez/Gameoffer/blob/master/src/assets/images/Gameoffer_5.jpg" />
-<hr>
-<img src="https://github.com/crislaez/Gameoffer/blob/master/src/assets/images/Gameoffer_6.jpg" />
-<hr>
-<img src="https://github.com/crislaez/Gameoffer/blob/master/src/assets/images/Gameoffer_7.jpg" />
-<hr> -->
 
 
 ### Que hace el proyecto
