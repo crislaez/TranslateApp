@@ -1,0 +1,19 @@
+{
+  "COMMON":{
+    "TITLE":"Translate App",
+    "MENU":"Menu",
+    "NORESULT":"No data found, swipe down to reload",
+    "ERROR":"An error has occurred, swipe down to reload",
+    "YES":"Yes",
+    "NO":"No",
+    "TRANSLATE":"Translate",
+    "TRANSLATE_FROM":"Translate from",
+    "TRANSLATE_TO":"Translate to",
+    "PUT_TEXT":"Insert text",
+    "TRANSLATION":"translation"
+  },
+  "ERRORS":{
+    "ERROR_LOAD_TRANSLATE":"Error loading translate",
+    "ERROR_LOAD_LANGUAJES":"Error loading languajes"
+  }
+}

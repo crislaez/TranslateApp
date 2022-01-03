@@ -1,0 +1,19 @@
+{
+  "COMMON":{
+    "TITLE":"Translate App",
+    "MENU":"Menu",
+    "NORESULT":"No hay datos, recarga hacia abajo",
+    "ERROR":"Ha ocurrido un error, recarga hacia abajo",
+    "YES":"Si",
+    "NO":"No",
+    "TRANSLATE":"Traducir",
+    "TRANSLATE_FROM":"Traducir del",
+    "TRANSLATE_TO":"Traducir al",
+    "PUT_TEXT":"Introducir texto",
+    "TRANSLATION":"Traducción"
+  },
+  "ERRORS":{
+    "ERROR_LOAD_TRANSLATE":"Error al cargar la traduccion",
+    "ERROR_LOAD_LANGUAJES":"Error al cargar los idiomas"
+  }
+}
