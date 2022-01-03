@@ -3,3 +3,4 @@ www
 src/environments
 android
 /.angular/cache
+/log
